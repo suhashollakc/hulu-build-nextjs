@@ -12,6 +12,7 @@
     "next": "12.0.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-flip-move": "^3.0.4",
     "stylelint-config-recommended": "^6.0.0",
     "tailwind-scrollbar-hide": "^1.1.5"
   },
@@ -24,5 +25,5 @@
   },
   "browser": {
     "crypto": false
-}
+  }
 }
