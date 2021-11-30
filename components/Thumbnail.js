@@ -25,4 +25,4 @@ const Thumbnail = forwardRef(({result}, ref) => {
     )
 })
 
-export const Thumb = forwardRef(Thumbnail);
+export const  Thumbnail
