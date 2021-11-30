@@ -37,7 +37,7 @@ function Banner() {
         </button>
 
 
-<button className="ml-3 px-6 text-lg text-nav bg-transparent hover:bg-blue text-blue-dark font-bold hover:text-nav border border-solid border-4 hover:opacity-70 rounded">
+<button className="ml-3 px-6 text-lg text-nav bg-transparent hover:bg-blue text-blue-dark font-bold hover:text-nav border border-solid hover:opacity-70 rounded">
  DETAILS
 </button>
 
