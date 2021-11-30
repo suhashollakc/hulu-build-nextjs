@@ -1,3 +1,6 @@
+/* eslint-disable react/display-name */
+// eslint-disable-next-line react/display-name
+
 import Image from "next/image";
 import { ThumbUpIcon } from "@heroicons/react/outline";
 import { forwardRef } from "react";
