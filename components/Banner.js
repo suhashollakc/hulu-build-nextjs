@@ -9,6 +9,7 @@ function Banner() {
     src="https://cdn.arstechnica.net/wp-content/uploads/2017/06/deadpool-gallery-03-gallery-image-800x430.jpg"
   width="2000"
   height="1076"
+  alt="Deadpool"
 
 />
 <div  className='absolute px-9 mt-60 sm:mt-10'>
@@ -18,6 +19,7 @@ function Banner() {
 <Image className='px-2 object-contain' 
     width = "400"
     height = "96"
+    alt="Deadpool"
     src ='https://img1.hulu.com/user/v3/artwork/e27cac54-3c3c-425e-b7de-67edc2c9f496?base_image_bucket_name=image_manager&base_image=cada526f-9ea0-4725-ba16-f9e596a5c411&operations=%5B%7B%22resize%22:%22500x150%7Cmax%22%7D,%7B%22format%22:%22png%22%7D%5D'
 />
 {/* <h1 className='px-2'>DEADPOOL</h1> */}
