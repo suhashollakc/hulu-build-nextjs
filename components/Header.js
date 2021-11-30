@@ -24,6 +24,7 @@ function Header() {
     src="https://links.papareact.com/ua6"
     width={100}
     height={100}
+    alt="logo"
 />
 
 <div className="flex flex-grow justify-center m-5 ">
